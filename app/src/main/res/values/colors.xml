@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_grey_700_color">#2ee4f9</color>
+    <color name="transparent">#cacec9</color>
+    <color name="line">#ffcdcdcd</color>
+    <color name="background_color">#f8faf9</color>
+    <color name="red">#e21414</color>
+    <color name="black">#000000</color>
+    <color name="BarPress">#51f5d1</color>
+    <color name="Disable">#f1990b</color>
+    <color name="button_keyboard_practice_color">#a3a9a8</color>
+</resources>
