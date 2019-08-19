@@ -3,8 +3,8 @@ package com.nguyenthanhson.tablayoutexample;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
-import android.widget.LinearLayout;
 import android.widget.TabHost;
+import android.widget.LinearLayout;
 
 public class MainActivity extends AppCompatActivity {
     LinearLayout tab1;
