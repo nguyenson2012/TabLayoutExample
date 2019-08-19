@@ -1,8 +1,8 @@
 package com.nguyenthanhson.tablayoutexample;
 
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.os.Bundle;
 import android.widget.TabHost;
 import android.widget.LinearLayout;
 
